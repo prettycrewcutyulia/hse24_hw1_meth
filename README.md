@@ -1,5 +1,6 @@
 # hse24_hw1_meth
  Изучение глобального изменения уровня CpG метилирования ДНК при раннем эмбриональном развитии мыши. 
+ Колаб: https://colab.research.google.com/drive/1iTj0eqRpdTTekPzy4BM5voKEYlvzPoG-#scrollTo=bAaOdZCKsVtX
 ## Анализ QC прочтений
 ![](/screenshots/fastqc.png)
 Отчет: https://github.com/prettycrewcutyulia/hse24_hw1_meth/blob/main/data/report_fastqc.html
